@@ -2,7 +2,7 @@
 ## PIA - UT01. Ej
 ## Juan J. Ruano
 
-[![N|Solid](https://www.mecd.es/cidead/aulavirtual/pluginfile.php/1/theme_moove/logo/1657130898/cabecera%20moodle%20cidead-02%20peque%C3%B1a.jpg)](https://nodesource.com/products/nsolid)
+![Alt text](https://img.freepik.com/free-photo/ai-technology-brain-background-digital-transformation-concept_53876-124672.jpg?w=1800&t=st=1700952951~exp=1700953551~hmac=9522ea436f3d9b2d73b76da6bec4e64cbf5257460f8790fe17ad40e520c92185)
 
 
 
