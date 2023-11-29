@@ -10,15 +10,15 @@
 
 La primera tarea de la unidad consta de dos partes. 
 
-- Primera parte:
--- Crear cuenta de Github
--- Crear repositorio
--- Agregar README con lenguaje de marcación
--- Agregar un fichero Python con un _"Hola mundo"_
+Primera parte:
+- Crear cuenta de Github
+- Crear repositorio
+- Agregar README con lenguaje de marcación
+- Agregar un fichero Python con un _"Hola mundo"_
 
-- Segunda parte:
--- Opción 1: En [Twitter](https://x.com/) crear una lista y nombrarla con un tema a la IA, buscar perfiles relacionados y agregarlos a la lista. Buscar listas ya creadas sobre Pyhton, R o C++ y seguirla.
--- Opción 2: En Linkedin seguir a la comunidad [Spain AI](https://www.linkedin.com/company/spainai/?originalSubdomain=es) y buscar profesionales del sector y seguirlos.
+Segunda parte:
+- Opción 1: En [Twitter](https://x.com/) crear una lista y nombrarla con un tema a la IA, buscar perfiles relacionados y agregarlos a la lista. Buscar listas ya creadas sobre Pyhton, R o C++ y seguirla.
+- Opción 2: En Linkedin seguir a la comunidad [Spain AI](https://www.linkedin.com/company/spainai/?originalSubdomain=es) y buscar profesionales del sector y seguirlos.
 
 
 
